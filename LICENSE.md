@@ -75,3 +75,5 @@ This repository establishes the **original public disclosure** of the concept:
 ---
 
 © LORI Framework. All rights reserved.
+
+# Tolerance is not permission. Respect for intellectual property must be mutual.
