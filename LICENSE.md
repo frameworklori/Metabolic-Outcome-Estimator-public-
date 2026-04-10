@@ -1,5 +1,7 @@
 # LORI Public Concept License v1.0
 
+This repository was originally established as a private project on December 28, 2025, marking the official inception of the Metabolic-Outcome-Estimator concept under the LORI Framework.
+
 ## 1. Ownership
 
 This project is the original intellectual property of:
