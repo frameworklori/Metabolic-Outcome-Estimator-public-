@@ -1,4 +1,5 @@
 
+This repository serves as the original public declaration of this concept.
 # Metabolic-Outcome-Estimator (Public)
 A transparent, goal-driven metabolic modeling framework that evaluates the consequences of food intake beyond calories. Original concept by the founder of the LORI Framework.
 
